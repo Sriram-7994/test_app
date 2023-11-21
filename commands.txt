@@ -1,0 +1,9 @@
+    1  pwd
+    2  ls
+    3  mkdir test_app
+    4  cd test_app
+    5  touch f1.txt
+    6  cat f1.txt
+    7  nano f1.txt
+    8  cat f1.txt
+    9  history >> commands.txt
