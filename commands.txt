@@ -7,3 +7,46 @@
     7  nano f1.txt
     8  cat f1.txt
     9  history >> commands.txt
+    1  pwd
+    2  ls
+    3  mkdir test_app
+    4  cd test_app
+    5  touch f1.txt
+    6  cat f1.txt
+    7  nano f1.txt
+    8  cat f1.txt
+    9  history >> commands.txt
+   10  history
+   11  cd test_app
+   12  touch f2.sql f3.py f4.txt
+   13  git init
+   14  git config --list
+   15  git config --global user.name 'Sriram-7994'
+   16  git config --global user.email 'sriram.ram94@gmail.com'
+   17  git config --list
+   18  git config --global user.name 'Sriram-7994'
+   19  git config --global user.email 'sriram.ram94@gmail.com'
+   20  git config --list
+   21  rm -r .git
+   22  git init
+   23  git config --global user.name 'Sriram-7994'
+   24  git config --global user.email 'sriram.ram94@gmail.com'
+   25  git config --list
+   26  git remote -v
+   27  git remote add origin https://github.com/Sriram-7994/test_app.git
+   28  git remote -v
+   29  git status
+   30  git status                                                                    On branch main
+   31  git add f1.txt f2.sql f3.py f4.txt
+   32  get branch -m master main
+   33  https://github.com/Sriram-7994/test_app.git
+   34  pwd
+   35  git remote -v
+   36  git push -f origin master
+   37  git config --list
+   38  git remote -v
+   39  git status
+   40  git add .
+   41  git commit -m 'First commit'
+   42  git push -f origin master
+   43  history >> commands.txt
